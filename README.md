@@ -5,6 +5,6 @@ Provides channel pulse widths (in microseconds) for easy mapping to servos or ot
 
 I used an FS-iA6B receiver.
 
-# Contributing
-Contributions are welcome!
-If you have ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.
+
+# Improvements
+If you have ideas, suggestions, or find any bugs, feel free to share them!
